@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyAppGithubUser</string>
+    <string name="cari_user">Cari user</string>
+    <string name="petunjuk_cari">Masukkan nama "user"</string>
+    <string name="nama_user">Nama user</string>
+    <string name="user_not_found">user not found</string>
+    <string name="username">username</string>
+    <string name="follower">Follower</string>
+    <string name="following">Following</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dark_mode">dark mode</string>
+</resources>
